@@ -1,8 +1,8 @@
 # Tugas 1 Grafika Komputer
 
-Nama : Aflah Hilmy
-NRP : 05111940000177
-Benda : Buku Pelajaran
+Nama : Ghifari Astaudi Ukumullah
+NRP : 05111940000012
+Kelas : B
 
 ### GAMBAR YANG DIAMBIL ADALAH Buku
 ### Tampak Atas
