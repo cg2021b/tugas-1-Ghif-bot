@@ -1,7 +1,9 @@
 # Tugas 1 Grafika Komputer
 
 Nama : Ghifari Astaudi Ukumullah
+
 NRP : 05111940000012
+
 Kelas : B
 
 ### GAMBAR YANG DIAMBIL ADALAH Buku
