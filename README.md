@@ -3,13 +3,13 @@
 ## Kelas : B
 ## NRP : 05111940000012
 
-## GAMBAR YANG DIAMBIL ADALAH BukU
+## GAMBAR YANG DIAMBIL ADALAH Buk
 ### Tampak Atas
-![images](images/depan atas.jpeg)
+<img src "images/depan atas.jpeg">
 
 ### Tampak Belakang
-![images](images/Belakang atas.jpeg)
+<img src "images/Belakang atas.jpeg">
 ### Tampak Kanan
-![images](images/kanan atas.jpeg)
+<img src "images/kanan atas.jpeg">
 ### Tampak Kiri
-![images](images/kiri atas.jpeg)
+<img src "images/kiri atas.jpeg">
