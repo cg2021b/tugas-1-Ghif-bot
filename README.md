@@ -5,11 +5,11 @@
 
 ## GAMBAR YANG DIAMBIL ADALAH BukU
 ### Tampak Atas
-![Depan Atas] (https://github.com/cg2021b/tugas-1-Ghif-bot/blob/main/images/Belakang%20atas.jpeg ?raw=true)
+![images](images/depan atas.jpeg)
 
 ### Tampak Belakang
-![Belakang Atas] (/images/depan atas.jpeg)
+![images](images/Belakang atas.jpeg)
 ### Tampak Kanan
-![Kanan Atas] (/images/kanan atas.jpeg)
+![images](images/kanan atas.jpeg)
 ### Tampak Kiri
-![Kiri Atas] (/images/kiri atas.jpeg)
+![images](images/kiri atas.jpeg)
