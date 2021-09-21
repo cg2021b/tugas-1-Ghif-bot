@@ -5,11 +5,11 @@
 
 ## GAMBAR YANG DIAMBIL ADALAH Buk
 ### Tampak Atas
-<img src "images/depan atas.jpeg">
+<img src ="images/depan atas.jpeg">
 
 ### Tampak Belakang
-<img src "images/Belakang atas.jpeg">
+<img src ="images/Belakang atas.jpeg">
 ### Tampak Kanan
-<img src "images/kanan atas.jpeg">
+<img src ="images/kanan atas.jpeg">
 ### Tampak Kiri
-<img src "images/kiri atas.jpeg">
+<img src ="images/kiri atas.jpeg">
