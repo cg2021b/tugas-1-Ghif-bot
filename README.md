@@ -5,6 +5,7 @@
 
 ## GAMBAR YANG DIAMBIL ADALAH BukU
 ### Tampak Atas
+![Depan Atas] (https://github.com/cg2021b/tugas-1-Ghif-bot/blob/main/images/Belakang%20atas.jpeg)
 ![Depan Atas] (/images/Belakang atas.jpeg)
 ### Tampak Belakang
 ![Belakang Atas] (/images/depan atas.jpeg)
