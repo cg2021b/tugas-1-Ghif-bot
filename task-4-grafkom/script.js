@@ -49,7 +49,7 @@ renderer.shadowMap.type = THREE.PCFSoftShadowMap;
 renderer.gammaOutput = true;
 
 const loader2 = new THREE.TextureLoader();
-const images = loader2.load('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlQP6Jghj8r6-982xroxrRf3va5lRmoqdsSQ&usqp=CAU');
+const images = loader2.load('https://threejsfundamentals.org/threejs/resources/images/checker.png');
 let roadPlane = new THREE.BoxGeometry(6, 7);
 let roadMaterial = new THREE.MeshLambertMaterial({
     map: images
@@ -80,12 +80,12 @@ loader.load('assets/monkey/monkey.gltf', function(gltf) {
 
 const skybox = new THREE.CubeTextureLoader();
 const Texture = skybox.load([
-    'skybox/px.png',
-    'skybox/nx.png',
-    'skybox/py.png',
-    'skybox/ny.png',
-    'skybox/pz.png',
-    'skybox/nz.png'
+    'skybox/px.jpg',
+    'skybox/nx.jpg',
+    'skybox/py.jpg',
+    'skybox/ny.jpg',
+    'skybox/pz.jpg',
+    'skybox/nz.jpg'
 ]);
 
 scene.background = Texture;
